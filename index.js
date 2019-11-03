@@ -18,8 +18,4 @@ app.set('view engine', 'handlebars');
 
 app.use('/', routes);
 
-const HOST = '0.0.0.0';
-const PORT = 8080;
-
-// Start Server
-app.listen(PORT, HOST);
+module.exports = app;
