@@ -1,2 +1,3 @@
-# mini-message-board--OdinProject
-The Odin Project - NodeJS - Express - Mini Message Board Project
+
+
+https://www.theodinproject.com/courses/nodejs/lessons/mini-message-board
